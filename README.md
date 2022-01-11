@@ -1,4 +1,5 @@
 ## <div class="title" align=center> Boas vindas! Sou a Emillie Nicole, conheça meu perfil! ✨</div>
+<img align="right" alt="Rafa-pic" height="350" src="https://media.discordapp.net/attachments/775497064581955604/930582592082812938/Static_assets.gif">
 
 ### Um pouquinho sobre mim:
 
@@ -7,6 +8,8 @@
 - 🎓 Estudante Na Etec de Guaianases - SP
 - 💼 Estou aberta à ofertas de emprego e estágio
 - 🗣️ Sou fluente em inglês com certificação
+
+
   <hr>
   <!-- CONTACT -->
   <h2>💬 Contact me</h2>
@@ -23,13 +26,15 @@
 <div align="center">
   <a href="https://github.com/emillienicole">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emillienicole&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillienicole&layout=compact&langs_count=7&theme=shades-of-purple"/>
+  <img height="180em" width="500em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillienicole&layout=compact&langs_count=7&theme=shades-of-purple"/>
 </div>
  
  <!-- ICONS -->
 <div style="display: inline_block"><br>
    
    <h2>💻📚 Programming learning in progress</h2>
+  <img align="center" alt="PHP" title="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+ 
   <img align="center" alt="HTML5" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg">
    <img align="center" alt="CSS3" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="SASS" title="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
