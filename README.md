@@ -5,7 +5,7 @@
 
 - ⚡ Tenho 18 anos
 - 👩‍💻 Sou auxiliar em Desenvolvimento de Sistemas
-- 🎓 Estudante Na Etec de Guaianases - SP
+- 🎓 Estudante na Etec de Guaianases - SP
 - 💼 Estou aberta à ofertas de emprego e estágio
 - 🗣️ Sou fluente em inglês com certificação
 
