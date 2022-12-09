@@ -6,7 +6,6 @@
 - ⚡ Tenho 19 anos
 - 👩‍💻 Sou técnica em Desenvolvimento de Sistemas
 - 🎓 Estudante na SPTech em ADS
-- 🗣️ Sou fluente em inglês com certificação
 
   <hr>
   <!-- CONTACT -->
@@ -30,7 +29,7 @@
  <!-- ICONS -->
 <div style="display: inline_block"><br>
    
-   <h2>💻📚 Aprendendo em programação</h2>
+   <h2>💻📚 Tecnologias</h2>
   <img align="center" alt="PHP" title="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
  
   <img align="center" alt="HTML5" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg">
