@@ -3,12 +3,10 @@
 
 ### Um pouquinho sobre mim:
 
-- ⚡ Tenho 18 anos
-- 👩‍💻 Sou auxiliar em Desenvolvimento de Sistemas
-- 🎓 Estudante na Etec de Guaianases - SP
-- 💼 Estou aberta à ofertas de emprego e estágio
+- ⚡ Tenho 19 anos
+- 👩‍💻 Sou técnica em Desenvolvimento de Sistemas
+- 🎓 Estudante na SPTech em ADS
 - 🗣️ Sou fluente em inglês com certificação
-
 
   <hr>
   <!-- CONTACT -->
